@@ -7,4 +7,5 @@ int foo02_cc(void)
 }
 
 int foo3(int f3){
+	my_good_function();
 }
