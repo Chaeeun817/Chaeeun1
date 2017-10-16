@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int foo2(void)
+int foo02_cc(void)
 {
 	printf("world!!\n");
 	return 0;
